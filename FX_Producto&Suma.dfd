@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+81
+'Ingrese dos numeros para multiplicarlos, al resultado le sumaremos 10 unidaddes'
+5
+1
+3
+a,b
+6
+2
+1
+c
+3
+a*b
+4
+resp
+4
+c+10
+4
+1
+58
+'El producto es: ',c, ' El resultado de la suma es: ',resp
+1

@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingrese su sueldo'
+5
+1
+1
+s
+6
+3
+5
+renta
+12
+((s/100)*10)
+3
+afp
+11
+((s/100)*7)
+4
+isss
+11
+((s/100)*5)
+4
+1
+141
+'El valor de su desceunto en RENTA es $', renta, ' El valor de su descuento de afp es $',AFP, ' El valor de su descuento del ISSS es $', isss
+6
+1
+5
+SNETO
+18
+S-(renta+afp+isss)
+4
+1
+29
+'Su salario neto es: $',SNETO
+1
